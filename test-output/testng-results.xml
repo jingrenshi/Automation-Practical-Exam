@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4083" started-at="2022-05-18T20:20:07Z" finished-at="2022-05-18T20:20:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4083" started-at="2022-05-18T20:20:07Z" finished-at="2022-05-18T20:20:11Z">
+      <class name="test.AddCategoryTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.AddCategoryTest@309e345f]" name="beforeTest" is-config="true" duration-ms="2549" started-at="2022-05-18T20:20:07Z" finished-at="2022-05-18T20:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="validateAddCategory()[pri:0, instance:test.AddCategoryTest@309e345f]" name="validateAddCategory" duration-ms="730" started-at="2022-05-18T20:20:10Z" finished-at="2022-05-18T20:20:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAddCategory -->
+        <test-method status="PASS" signature="validateDuplicatedCategory()[pri:0, instance:test.AddCategoryTest@309e345f]" name="validateDuplicatedCategory" duration-ms="276" started-at="2022-05-18T20:20:10Z" finished-at="2022-05-18T20:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDuplicatedCategory -->
+        <test-method status="PASS" signature="validateMonthDropDown()[pri:0, instance:test.AddCategoryTest@309e345f]" name="validateMonthDropDown" duration-ms="499" started-at="2022-05-18T20:20:11Z" finished-at="2022-05-18T20:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMonthDropDown -->
+      </class> <!-- test.AddCategoryTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
